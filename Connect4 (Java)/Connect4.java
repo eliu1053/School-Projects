@@ -1,5 +1,3 @@
-//Eric Liu
-//111545728
 package connect4r;
 import java.util.Scanner;
 public class c4 {
